@@ -11,7 +11,6 @@ Depthify is a Blender addon that creates a 3D surface from a depth map image usi
 - [Hints and Tips](#hints-and-tips)
 - [Other Use Cases](#other-use-cases)
 - [Acknowledgements and Credits](#acknowledgements-and-credits)
-- [License](#license)
 
 ## Overview
 
@@ -106,8 +105,4 @@ Depthify is based on the following resources and references:
 
 [Back to top](#table-of-contents)
 
-## License
 
-Depthify is licensed under the MIT License. See [LICENSE](https://github.com/microsoft-bing-search-assistant/depthify/blob/main/LICENSE) for more information.
-
-[Back to top](#table-of-contents)
